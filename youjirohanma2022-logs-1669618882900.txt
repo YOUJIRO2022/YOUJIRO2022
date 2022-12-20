@@ -1,0 +1,10 @@
+2022-11-28T07:00:08.147513+00:00 app[worker.1]: 0|xeon  |   qr: undefined
+2022-11-28T07:00:08.147585+00:00 app[worker.1]: 0|xeon  | }
+2022-11-28T07:00:08.683410+00:00 app[worker.1]: 0|xeon  | Connected... { connection: 'open' }
+2022-11-28T07:00:08.951910+00:00 app[worker.1]: 0|xeon  | Connected... { receivedPendingNotifications: true }
+2022-11-28T07:00:09.882011+00:00 app[worker.1]: 0|xeon  | [ MESSAGE ] Mon Nov 28 2022 07:00:09 GMT+0000 (Coordinated Universal Time) https://github.com/YOUJIRO2022/CheemsBot-MD4
+2022-11-28T07:00:09.882027+00:00 app[worker.1]: 0|xeon  | => From Come Back 😔 19376333053@s.whatsapp.net
+2022-11-28T07:00:09.882043+00:00 app[worker.1]: 0|xeon  | => In Private Chat 249996245582@s.whatsapp.net
+2022-11-28T07:00:09.910835+00:00 app[worker.1]: 0|xeon  | [ MESSAGE ] Mon Nov 28 2022 07:00:09 GMT+0000 (Coordinated Universal Time) protocolMessage
+2022-11-28T07:00:09.910864+00:00 app[worker.1]: 0|xeon  | => From Come Back 😔 19376333053@s.whatsapp.net
+2022-11-28T07:00:09.910890+00:00 app[worker.1]: 0|xeon  | => In Private Chat 19376333053@s.whatsapp.net
